@@ -1,0 +1,37 @@
+{
+  "enemyName": "이카야끼 대장",
+  "dialogues": [
+    {
+      "speaker": "ENEMY",
+      "message": "오징어는 어째서 타코야끼가 될 수 없는가!"
+    },
+    {
+      "speaker": "ENEMY",
+      "message": "세상은 타코야끼를 사랑하는데 \n이카야끼는 어째서 인기가 없는가!!"
+    },
+    {
+      "speaker": "ENEMY",
+      "message": "나는 오징어인 채로 최고의 타코야끼가 되어서 \n이 세상에 도전할 것이다!"
+    },
+    {
+      "speaker": "PLAYER",
+      "message": "(이상한 녀석한테 걸리고 말았다...)"
+    },
+    {
+      "speaker": "PLAYER",
+      "message": "(비켜달라고 할까?)"
+    },
+    {
+      "speaker": "CHOICE",
+      "message": ""
+    },
+    {
+      "speaker": "ENEMY",
+      "message": "그렇다면 운 싸움이다!"
+    },
+    {
+      "speaker": "ENEMY",
+      "message": "승리한 자가 이 칸을 차지할 수 있다!"
+    }
+  ]
+}

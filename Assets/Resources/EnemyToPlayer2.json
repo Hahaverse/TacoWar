@@ -1,0 +1,17 @@
+{
+  "enemyName": "이카야끼 대장",
+  "dialogues": [
+    {
+      "speaker": "ENEMY",
+      "message": "이봐!"
+    },
+    {
+      "speaker": "ENEMY",
+      "message": "나는 그 곳이 지나가고 싶은데..."
+    },
+    {
+      "speaker": "ENEMY",
+      "message": "비켜!"
+    }
+  ]
+}

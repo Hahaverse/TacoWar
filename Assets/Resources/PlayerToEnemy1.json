@@ -1,0 +1,18 @@
+[
+  {
+    "speaker": "ENEMY",
+    "message": "뭐냐! 날 어떻게 찾은거냐!"
+  },
+  {
+    "speaker": "PLAYER",
+    "message": "(싸움을 걸까?)"
+  },
+  {
+    "speaker": "CHOICE",
+    "message": ""
+  },
+  {
+    "speaker": "MURAKUMO",
+    "message": "뭐냐! 해보자는거냐!"
+  }
+]
